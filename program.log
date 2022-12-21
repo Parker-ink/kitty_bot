@@ -1,0 +1,9 @@
+2022-08-19 16:05:44,271, ERROR, На ноль делить нельзя!, root
+Traceback (most recent call last):
+  File "d:\Dev\kittybot\example_for_log.py", line 15, in <module>
+    42 / 0
+ZeroDivisionError: division by zero
+2022-08-19 16:05:44,271, INFO, Сообщение отправлено, __main__
+2022-08-19 16:05:44,271, WARNING, Большая нагрузка!, __main__
+2022-08-19 16:05:44,271, ERROR, Бот не смог отправить сообщение, __main__
+2022-08-19 16:05:44,271, CRITICAL, Всё упало! Зовите админа!1!111, __main__
